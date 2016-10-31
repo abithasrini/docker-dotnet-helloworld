@@ -1,4 +1,3 @@
-# docker-dotnet-helloworld
 Framework Training Docker .Net Core Hello World
 ===============================================
 Overview
